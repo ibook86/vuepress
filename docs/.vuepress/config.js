@@ -4,8 +4,8 @@ module.exports = {
     themeConfig: {
         sidebar: [
             '/',
-            '/page-a',
-            ['/page-b', 'Explicit link text']
+            '/list'
+            // ['/page-b', 'Explicit link text']
         ],
         nav: [
             {text: 'Home', link: '/'},
