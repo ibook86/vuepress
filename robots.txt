@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://vuepress-pi.vercel.app/sitemap.xml
